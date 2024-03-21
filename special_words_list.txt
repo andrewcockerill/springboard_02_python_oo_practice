@@ -1,0 +1,8 @@
+# Animals
+dog
+bear
+
+# Food
+mango
+cheese
+potato
